@@ -74,7 +74,6 @@ Your job:
    - Reference program/include/type/name.
    - Ask to locate obsolete `CALL TRANSACTION` and `SUBMIT` usages.
    - Replace them with the mapped successors (from OSS Note 2270335).
-   - Require JSON output with keys: original_code_snippet, remediated_code_snippet, changes[] (line/before/after/reason).
 
 Return ONLY strict JSON:
 {{
